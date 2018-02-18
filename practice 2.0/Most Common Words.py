@@ -1,0 +1,31 @@
+# to print out ten most common words
+# count the number of occurances for each word 
+# sort them in descending order
+# print the first 10 sorted elements in the resulting list
+fhand = open('romeo.txt')
+data = fhand.read()
+#print(data)
+data = data.split()
+#print(data)
+d = dict()
+# if word is in the dictionary add 1 to the value
+# if word is not in the dictionary then add the word to the key and one to the value
+for word in data:
+    if word not in d:
+        d[word]=1
+    else:
+        d[word]=d[word]+1
+#print(d)
+# to sort the dictionary based on the value:
+# convert dictionary into list --- with a value,key pair mapping
+# use sort method to sord based on value
+l=list()
+for key,value in d.items():
+    l.append((value,key)) 
+#print(l)
+l.sort(reverse=True)
+#print(l)
+print('Top 10 Most common occurances are:\n',l[0:9] )
+for key,value in l[0:9]:
+    print(value,key)
+    

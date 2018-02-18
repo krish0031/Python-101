@@ -1,0 +1,11 @@
+# Get the distribution for hour of each email
+# split the line that contains the time and seperate the hour part from the line
+# count the number of instances of each hour and and print that data
+fhand = open('mbox.txt')
+for line in fhand:
+    line = line.rstrip()
+    if not line.startswith('From '): continue
+    else:
+        #print(line)
+        words = line.split()
+        print(words[5])

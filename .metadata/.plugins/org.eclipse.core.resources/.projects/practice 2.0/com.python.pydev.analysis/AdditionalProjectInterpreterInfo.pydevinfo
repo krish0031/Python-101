@@ -1,0 +1,44 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Python Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\practice 2.0\com.python.pydev.analysis\v2_indexcache
+downloadimg|1518699943154007000|C:\Python Workspace\practice 2.0\downloadimg.py
+tcpserver|1518693734987125000|C:\Python Workspace\practice 2.0\tcpserver.py
+urlimage|1518876054704837000|C:\Python Workspace\practice 2.0\urlimage.py
+emailsviaHttps|1518877215780543000|C:\Python Workspace\practice 2.0\emailsviaHttps.py
+urlromeo|1518701804200086000|C:\Python Workspace\practice 2.0\urlromeo.py
+tcpclient|1518548988084546000|C:\Python Workspace\practice 2.0\tcpclient.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=downloadimg
+4=tcpserver
+3=emailsviaHttps
+5=urlimage
+2=urlromeo
+6=tcpclient
+-- END DICTIONARY
+-- START TREE 1
+19
+cou|1|count!11@
+d|1|d!19@
+dat|2|data!11@data!27@
+fha|3|fhand!19@fhand!11@fhand!27@
+hos|4|host!19@HOST!11@host!35@host_ip!35@
+htm|1|html!43@
+img|0|
+l|0|
+lin|2|line!19@links!43@
+mys|1|mysock!11@
+pic|1|picture!11@
+por|3|port!51@port!35@PORT!11@
+pos|1|pos!11@
+req|2|request!35@request!51@
+res|2|result!51@result!35@
+s|2|s!51@s!35@
+ser|1|server!51@
+url|2|url!43@url!27@
+wor|1|words!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,7 @@
+fhand = open('romeo.txt')
+fcont = fhand.read()
+print(fcont,"\n\n")
+fcont = fcont.split()
+print(fcont. "\n\n")
+fcont=fcont.sort()
+    

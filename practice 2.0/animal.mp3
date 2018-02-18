@@ -1,0 +1,398 @@
+<!DOCTYPE html> 
+<!--[if lt IE 7 ]><html class="no-js ie ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html class="no-js ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+
+<title>  Sound Samples</title>
+
+<link rel="stylesheet" href="http://www.noiseaddicts.com/wp-content/themes/main/style.css">
+<link rel="pingback" href="http://www.noiseaddicts.com/xmlrpc.php">
+
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="http://www.noiseaddicts.com/wp-content/themes/main/js/ie/selectivizr.js"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//www.noiseaddicts.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Audio and Sound &raquo; Feed" href="http://www.noiseaddicts.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audio and Sound &raquo; Comments Feed" href="http://www.noiseaddicts.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.noiseaddicts.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mb.miniAudioPlayer.css-css'  href='http://www.noiseaddicts.com/wp-content/plugins/wp-miniaudioplayer/css/miniplayer.css?ver=1.8.10'  media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.noiseaddicts.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0'  media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.noiseaddicts.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70'  media='all' />
+<link rel='stylesheet' id='style-responsive-css'  href='http://www.noiseaddicts.com/wp-content/themes/main/style-responsive.css?ver=1.0'  media='all' />
+<link rel='stylesheet' id='wpbandit-style-css'  href='http://www.noiseaddicts.com/wp-content/themes/main/styles/default-1120.css?ver=4.9.3'  media='all' />
+<link rel='stylesheet' id='wpbandit-custom-css'  href='http://www.noiseaddicts.com/wp-content/themes/main/custom.css?ver=1.0'  media='all' />
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/plugins/wp-miniaudioplayer/js/jquery.mb.miniAudioPlayer.min.js?ver=1.8.10'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/plugins/wp-miniaudioplayer/js/map_overwrite_default_me.js?ver=1.8.10'></script>
+<link rel='https://api.w.org/' href='http://www.noiseaddicts.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.noiseaddicts.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.noiseaddicts.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.noiseaddicts.com/?p=1329' />
+<link rel="alternate" type="application/json+oembed" href="http://www.noiseaddicts.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.noiseaddicts.com%2Ffree-samples-mp3%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.noiseaddicts.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.noiseaddicts.com%2Ffree-samples-mp3%2F&#038;format=xml" />
+
+<!-- start miniAudioPlayer custom CSS -->
+
+<style id="map_custom_css">
+       /* DO NOT REMOVE OR MODIFY */
+/*{'skinName': 'mySkin', 'borderRadius': 5, 'main': 'rgb(255, 217, 102)', 'secondary': 'rgb(68, 68, 68)', 'playerPadding': 0}*/
+/* END - DO NOT REMOVE OR MODIFY */
+/*++++++++++++++++++++++++++++++++++++++++++++++++++
+Copyright (c) 2001-2014. Matteo Bicocchi (Pupunzi);
+http://pupunzi.com/mb.components/mb.miniAudioPlayer/demo/skinMaker.html
+
+Skin name: mySkin
+borderRadius: 5
+background: rgb(255, 217, 102)
+icons: rgb(68, 68, 68)
+border: rgb(55, 55, 55)
+borderLeft: rgb(255, 230, 153)
+borderRight: rgb(255, 204, 51)
+mute: rgba(68, 68, 68, 0.4)
+download: rgba(255, 217, 102, 0.4)
+downloadHover: rgb(255, 217, 102)
+++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/* Older browser (IE8) - not supporting rgba() */
+.mbMiniPlayer.mySkin .playerTable span{background-color:#ffd966}
+.mbMiniPlayer.mySkin .playerTable span.map_play{border-left:1px solid #ffd966;}
+.mbMiniPlayer.mySkin .playerTable span.map_volume{border-right:1px solid #ffd966;}
+.mbMiniPlayer.mySkin .playerTable span.map_volume.mute{color: #444444;}
+.mbMiniPlayer.mySkin .map_download{color: #444444;}
+.mbMiniPlayer.mySkin .map_download:hover{color: #444444;}
+.mbMiniPlayer.mySkin .playerTable span{color: #444444;}
+.mbMiniPlayer.mySkin .playerTable {border: 1px solid #444444 !important;}
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+.mbMiniPlayer.mySkin .playerTable{background-color:transparent; border-radius:5px !important;}
+.mbMiniPlayer.mySkin .playerTable span{background-color:rgb(255, 217, 102); padding:3px !important; font-size: 20px;}
+.mbMiniPlayer.mySkin .playerTable span.map_time{ font-size: 12px !important; width: 50px !important}
+.mbMiniPlayer.mySkin .playerTable span.map_title{ padding:4px !important}
+.mbMiniPlayer.mySkin .playerTable span.map_play{border-left:1px solid rgb(255, 204, 51); border-radius:0 4px 4px 0 !important;}
+.mbMiniPlayer.mySkin .playerTable span.map_volume{padding-left:6px !important}
+.mbMiniPlayer.mySkin .playerTable span.map_volume{border-right:1px solid rgb(255, 230, 153); border-radius:4px 0 0 4px !important;}
+.mbMiniPlayer.mySkin .playerTable span.map_volume.mute{color: rgba(68, 68, 68, 0.4);}
+.mbMiniPlayer.mySkin .map_download{color: rgba(255, 217, 102, 0.4);}
+.mbMiniPlayer.mySkin .map_download:hover{color: rgb(255, 217, 102);}
+.mbMiniPlayer.mySkin .playerTable span{color: rgb(68, 68, 68);text-shadow: none!important;}
+.mbMiniPlayer.mySkin .playerTable span{color: rgb(68, 68, 68);}
+.mbMiniPlayer.mySkin .playerTable {border: 1px solid rgb(55, 55, 55) !important;}
+.mbMiniPlayer.mySkin .playerTable span.map_title{color: #000; text-shadow:none!important}
+.mbMiniPlayer.mySkin .playerTable .jp-load-bar{background-color:rgba(255, 217, 102, 0.3);}
+.mbMiniPlayer.mySkin .playerTable .jp-play-bar{background-color:#ffd966;}
+.mbMiniPlayer.mySkin .playerTable span.map_volumeLevel a{background-color:rgb(94, 94, 94); height:80%!important }
+.mbMiniPlayer.mySkin .playerTable span.map_volumeLevel a.sel{background-color:#444444;}
+.mbMiniPlayer.mySkin  span.map_download{font-size:50px !important;}
+/* Wordpress playlist select */
+.map_pl_container .pl_item.sel{background-color:#ffd966 !important; color: #444444}
+/*++++++++++++++++++++++++++++++++++++++++++++++++*/
+</style>
+	
+<!-- end miniAudioPlayer custom CSS -->
+	
+<link rel="shortcut icon" href="http://www.noiseaddicts.com/assets/favicon.ico">
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="page-template-default page page-id-1329 mobile-sidebar-disable">
+	
+
+<div id="wrap">
+
+
+<div id="page">
+	<div class="container">
+		<div id="page-inner">
+		
+			<div class="main fix sidebar-right">
+			
+				<div class="content-part">
+					<div class="pad">
+						<article id="entry-1329" class="entry fix post-1329 page type-page status-publish hentry">
+															<div id="page-title">
+								<h1>Sound Samples</h1>
+							</div><!--/page-title-->
+							<div class="text">
+								<h2><a href="http://www.noiseaddicts.com/free-samples-mp3">Categories</a> :: <a href="http://www.noiseaddicts.com/free-samples-mp3?category_name=Animals">Animals</a></h2>
+<table>
+<tr>
+<td><strong>Sample Name: </strong></td>
+<td> American Bison</td>
+</tr>
+<tr>
+<td><strong>Category: </strong></td>
+<td> Animals</td>
+</tr>
+<tr>
+<td><strong>Size: </strong></td>
+<td> 155k</td>
+</tr>
+<tr>
+<td><strong>Download Link: </strong></td>
+<td> <a href="http://www.noiseaddicts.com/samples_1w72b820/280.mp3"> download </a></td>
+</tr>
+</table>
+<p></p>
+								<div class="clear"></div>
+							</div>			
+						</article>
+											</div><!--/pad-->
+				</div><!--/content-part-->
+				
+				<div class="sidebar">	
+					
+  <div style="text-align: center; padding: 10px 0 0 0;">
+    <a href="http://www.noiseaddicts.com/">
+      <img alt="music and audio website logo" src="http://www.noiseaddicts.com/assets/logo.jpg">
+    </a>
+  </div>
+<ul>
+	<li id="randompostswiththumbnails_widget-3" class="widget RandomPostsWithThumbnails_Widget"><h3 class="widget-title fix"><span> </span></h3>		<style>
+            #RandomPostsByWondermill_Widget img{
+                border:0px; 
+            }
+            #RandomPostsByWondermill_Widget a{
+                display:block; 
+                text-decoration:none; 
+                width:282px; 
+                border:1px solid #FFFFFF; 
+                background-color:#FFFFFF;
+                padding-bottom:4px; 
+                padding-top:1px; 
+                text-align:center; 
+                font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+                font-size:14px; 
+                margin-left:4px; 
+                color:#000;
+                margin-bottom:10px; 
+            }
+            #RandomPostsByWondermill_Widget a:hover{
+                background-color:#FFFFFF;
+                border:1px solid #EEEEEE; 
+                color:#000;
+                text-decoration:none; 
+            }
+        </style>
+        
+        <div id="RandomPostsByWondermill_Widget">
+        
+                                <a href="http://www.noiseaddicts.com/2013/03/types-of-drumsticks/"><img width="280" height="204" src="http://www.noiseaddicts.com/wp-content/uploads/2013/03/drums.jpg" class="attachment-280x280 size-280x280 wp-post-image" alt="drums" title="" /><br>Types of Drumsticks</a>
+                                    <a href="http://www.noiseaddicts.com/2012/01/fender-guitar-johnny-marr-jaguar/"><img width="280" height="218" src="http://www.noiseaddicts.com/wp-content/uploads/2012/01/johnny_marr.jpg" class="attachment-280x280 size-280x280 wp-post-image" alt="johnny marr guitar" title="" /><br>Fender Guitar: Johnny Marr Jaguar</a>
+                                    <a href="http://www.noiseaddicts.com/2013/03/learn-to-solder-and-repair-audio-cables/"><img width="280" height="224" src="http://www.noiseaddicts.com/wp-content/uploads/2013/03/soldering_audio_cable.jpg" class="attachment-280x280 size-280x280 wp-post-image" alt="soldering audio cable" title="" /><br>Learn to Solder and Repair Audio Cables</a>
+                                    
+        </div>
+		
+		</li><li id="search-4" class="widget widget_search"><form method="get" id="searchform" action="http://www.noiseaddicts.com/">
+	<div>
+		<input type="text" id="s" name="s" onblur="if(this.value=='')this.value='Enter your search...';" onfocus="if(this.value=='Enter your search...')this.value='';" value="Enter your search..." />
+	</div>
+</form></li></ul>				</div><!--/sidebar-->
+			
+			</div><!--/main-->
+			
+		</div><!--/page-inner-->
+	</div><!--/container-->
+</div><!--/page-->
+
+		
+	
+		<div id="subfooter">
+		<div class="container">
+			<div id="subfooter-inner" class="fix">
+				<div class="pad fix">
+					<div class="grid one-third">
+						<ul>		<li id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widget-title fix"><span>Recent Articles</span></h3>		<ul>
+											<li>
+					<a href="http://www.noiseaddicts.com/2017/08/time-to-get-500-series-pre-amps/">Time to get 500 Series Pre Amps</a>
+									</li>
+											<li>
+					<a href="http://www.noiseaddicts.com/2016/08/power-of-music/">Power of Music</a>
+									</li>
+											<li>
+					<a href="http://www.noiseaddicts.com/2016/06/musicians-how-to-record-yourselves/">Musicians: How to Record Yourselves</a>
+									</li>
+											<li>
+					<a href="http://www.noiseaddicts.com/2015/08/mixing-a-song/">Mixing a Song</a>
+									</li>
+											<li>
+					<a href="http://www.noiseaddicts.com/2015/05/why-people-collect-vinyl-records/">Why People Collect Vinyl Records</a>
+									</li>
+					</ul>
+		</li></ul>
+					</div>
+					<div class="grid one-third">
+						<ul><li id="recent-comments-3" class="widget widget_recent_comments"><h3 class="widget-title fix"><span>Recent Comments</span></h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Gudrun</span> on <a href="http://www.noiseaddicts.com/2010/09/impressive-vocal-ranges-of-6-rock-singers/comment-page-1/#comment-234963">Impressive Vocal Ranges of 6 Rock Singers</a></li><li class="recentcomments"><span class="comment-author-link">the security guy</span> on <a href="http://www.noiseaddicts.com/2009/03/can-you-hear-this-hearing-test/comment-page-6/#comment-234962">Hearing Test &#8211; Can You Hear This?</a></li><li class="recentcomments"><span class="comment-author-link">Mod</span> on <a href="http://www.noiseaddicts.com/2010/03/can-you-hear-like-an-audio-engineer/comment-page-1/#comment-234960">Can you hear like an audio engineer?</a></li><li class="recentcomments"><span class="comment-author-link">John Laffoon</span> on <a href="http://www.noiseaddicts.com/2009/05/greatest-jazz-albums-of-all-time/comment-page-1/#comment-234959">100 Greatest Jazz albums of all time</a></li><li class="recentcomments"><span class="comment-author-link">Stathis</span> on <a href="http://www.noiseaddicts.com/2009/03/mp3-sound-quality-test-128-320/comment-page-2/#comment-234958">Do 320kbps mp3 files really sound better?  Take the test!</a></li></ul></li></ul>
+					</div>
+					<div class="grid one-third last">
+						<ul><li id="search-3" class="widget widget_search"><form method="get" id="searchform" action="http://www.noiseaddicts.com/">
+	<div>
+		<input type="text" id="s" name="s" onblur="if(this.value=='')this.value='Enter your search...';" onfocus="if(this.value=='Enter your search...')this.value='';" value="Enter your search..." />
+	</div>
+</form></li><li id="text-10" class="widget widget_text"><h3 class="widget-title fix"><span>Popular Posts</span></h3>			<div class="textwidget"><p>
+<a href="http://www.noiseaddicts.com/2009/03/can-you-hear-this-hearing-test/">Hearing Test</a>
+</p>
+<p>
+<a href="http://www.noiseaddicts.com/2009/03/mp3-sound-quality-test-128-320/">WAV vs MP3</a>
+</p></div>
+		</li></ul>
+					</div>
+				</div>
+			</div><!--/subfooter-inner-->
+		</div>
+	</div><!--/subfooter-->
+		
+	
+	<div class="clear"></div>
+	<footer id="footer">
+		<div class="container">
+			<div id="footer-inner" class="fix">
+				
+								
+				<div id="footer-bottom">
+					<div class="pad fix">
+						<div class="grid">
+														
+													</div>
+						<div class="grid">
+							<p id="copy">
+                <a href="http://www.noiseaddicts.com/about/" title="About">About</a> |
+                <a href="http://www.noiseaddicts.com/contact/" title="Contact">Contact</a> |
+                <a href="http://www.noiseaddicts.com/privacy-policy/">Privacy Policy</a> |
+                <a href="http://www.noiseaddicts.com/free-samples-mp3/" title="Sound Samples">Sound Samples</a> |
+                <a href="http://www.noiseaddicts.com/today-in-music-history/" title="Music History">Music History</a>
+
+                <span class="right">&copy;2006-2018 All Rights Reserved</span>
+
+                <br/><br/>
+                <a href="http://www.noiseaddicts.com/comments/feed/">Comments (RSS)</a> | <a href="http://feeds.feedburner.com/noiseaddicts">Entries (RSS)</a>
+
+              </p>
+						</div>
+					</div>
+
+
+					<div class="clear"></div>
+					<a id="to-top" href="#"><i class="icon-top"></i></a>
+				</div>
+			</div><!--/footer-inner-->
+		</div>
+	</footer><!--/footer-->
+	
+</div><!--/wrap-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.noiseaddicts.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/themes/main/js/jquery.jplayer.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/themes/main/js/jquery.flexslider.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/themes/main/js/jquery.fancybox.pack.js?ver=2.0.6'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/themes/main/js/jquery.fancybox-media.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/themes/main/js/jquery.mousewheel-3.0.6.pack.js?ver=3.0.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var objectL10n = {"navigate":"Navigate to..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-content/themes/main/js/jquery.theme.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.noiseaddicts.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+
+	<!-- start miniAudioPlayer initializer -->
+	<script type="text/javascript">
+
+	var miniAudioPlayer_replaceDefault = false;
+	var miniAudioPlayer_excluded = "map_excluded";
+	var miniAudioPlayer_replaceDefault_show_title = false;
+
+	var miniAudioPlayer_defaults = {
+				inLine:true,
+                width:"300",
+				skin:"gray",
+				animate:true,
+				volume:.2,
+				autoplay:false,
+				showVolumeLevel:true,
+				allowMute: true,
+				showTime:true,
+				id3:false,
+				showRew:true,
+				addShadow: false,
+				downloadable:false,
+				downloadPage:"http://www.noiseaddicts.com/wp-content/plugins/wp-miniaudioplayer/map_download.php",
+				swfPath:"http://www.noiseaddicts.com/wp-content/plugins/wp-miniaudioplayer/js/",
+				onReady: function(player, $controlsBox){
+				   if(player.opt.downloadable && player.opt.downloadablesecurity && !false){
+				        jQuery(".map_download", $controlsBox).remove();
+				   }
+				}
+		};
+
+    function initializeMiniAudioPlayer(){
+         jQuery(".mejs-container a").addClass(miniAudioPlayer_excluded);
+         jQuery("a[href*='.mp3'] ,a[href*='.m4a']").not(".map_excluded").not(".wp-playlist-caption").mb_miniPlayer(miniAudioPlayer_defaults);
+    }
+
+    if(false)
+        jQuery("body").addClass("map_replaceDefault");
+
+	jQuery(function(){
+      if(false){
+         setTimeout(function(){replaceDefault();},0);
+      }
+      initializeMiniAudioPlayer();
+      jQuery(document).ajaxSuccess(function(event, xhr, settings) {
+        initializeMiniAudioPlayer();
+      });
+	});
+	</script>
+	<!-- end miniAudioPlayer initializer -->
+
+	<!--[if lt IE 9]><script src="http://www.noiseaddicts.com/wp-content/themes/main/js/ie/respond.min.js"></script> <![endif]-->
+
+
+  <!-- Start of StatCounter Code -->
+  <script type="text/javascript">
+    var sc_project=9045712;
+    var sc_invisible=1;
+    var sc_security="72e1e465";
+    var scJsHost = (("https:" == document.location.protocol) ?
+      "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+      scJsHost+
+      "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <!-- End of StatCounter Code -->
+  </body>
+</html>
+<!-- Dynamic page generated in 0.315 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-02-15 06:46:39 -->

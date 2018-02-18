@@ -1,0 +1,6 @@
+import urllib.request, urllib.parse, urllib.error
+
+audio = urllib.request.urlopen('http://www.noiseaddicts.com/free-samples-mp3/?id=280').read()
+fhand = open('animal.mp3')
+fhand.write(audio)
+fhand.close()

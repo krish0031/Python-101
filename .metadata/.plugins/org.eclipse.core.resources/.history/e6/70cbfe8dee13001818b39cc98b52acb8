@@ -1,0 +1,10 @@
+import urllib.request, urllib.parse, urllib.error
+
+url = 'http://www.pr4e.org/code3/mbox.txt'
+data = urllib.request.urlopen(url).read()
+fhand = open('mboxweb.txt','wb')
+output = fhand.write(data)
+for line in output:
+    line = line.decode().rstrip()
+    print(line)
+

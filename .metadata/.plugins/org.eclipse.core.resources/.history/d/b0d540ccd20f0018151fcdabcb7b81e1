@@ -1,0 +1,8 @@
+fhand = open('romeo.txt')
+fcont = read(fhand)
+
+for line in fhand:
+    line = line.rstrip()
+    words = line.split()
+    print(words)
+    for word in words:

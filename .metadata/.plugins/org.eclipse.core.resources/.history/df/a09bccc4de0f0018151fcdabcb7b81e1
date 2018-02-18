@@ -1,0 +1,20 @@
+# Get the lines that starts with 'from and contains email ID
+# Split the line into words and extract the email ID
+# count the occurances of the email in the whole file
+# sort the list based on number of occurances and print the highest one
+fhand = open('mbox.txt')
+data = dict()
+for line in fhand:
+    line = line.rstrip()
+    if not line.startswith('From '): continue
+    else:
+        words = line.split()
+        #print(words)
+        email = word[1]
+        for email in words:
+            if email in d:
+                data(email) = 1
+            else:
+                data(email)+=1
+print(data)
+        

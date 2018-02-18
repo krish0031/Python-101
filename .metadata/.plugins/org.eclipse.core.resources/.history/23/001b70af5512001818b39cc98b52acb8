@@ -1,0 +1,9 @@
+import urllib.request,urllib.parse,urllib.error
+import os
+
+img = urllib.request.urlopen('https://www.quora.com/').read()
+fhand = open('quora.txt','wb')
+fhand.write(img)
+fhand.close()
+
+print(os.getcwd())

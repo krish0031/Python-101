@@ -1,0 +1,16 @@
+import socket
+s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server = 'data.py4e.com'
+port = 80
+print(server)
+server_ip=socket.gethostbyname(server)
+print(server_ip)
+
+
+s.connect((server,port))
+request = "GET http://data.py4e.com/romeo.txt HTTP/1.1\n\n"
+
+s.send(request.encode())
+result = s.recv(512)
+
+print(result.decode())

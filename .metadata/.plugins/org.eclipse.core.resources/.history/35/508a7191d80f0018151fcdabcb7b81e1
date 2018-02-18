@@ -1,0 +1,9 @@
+# to print out ten most common words
+# count the number of occurances for each word 
+# sort them in descending order
+# print the first 10 sorted elements in the resulting list
+fhand = open('romeo.txt')
+data = fhand.read()
+#print(data)
+data = data.split()
+print(data)

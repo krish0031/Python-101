@@ -1,0 +1,8 @@
+import socket
+s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server = 'py4e.com'
+port = 80
+print(server)
+server_ip=socket.gethostbyname(server)
+print(server_ip)
+request = "GET / HTTPS/1.1\nHost:"+server+"\n\n"

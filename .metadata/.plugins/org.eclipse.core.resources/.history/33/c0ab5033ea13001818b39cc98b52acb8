@@ -1,0 +1,4 @@
+import urllib.request,urllib.parse,urllib.error
+
+data = urllib.request.urlopen('https://www.py4e.com/code3/mbox.txt').read()
+print(data)
