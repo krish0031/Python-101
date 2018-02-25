@@ -1,7 +1,0 @@
-import urllib.request, urllib.parse, urllib.error
-
-
-data = urllib.request.urlopen('https://www.py4e.com/code3/mbox.txt').read()
-fhand = open('mboxweb.txt','wb')
-fhand.write(data)
-

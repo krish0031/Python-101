@@ -1,4 +1,5 @@
-fhand = open('romeo.txt')
+file_name = input('please enter the file name:\n')
+fhand = open(file_name)
 fcont = fhand.read()
 print(fcont,"\n\n")
 fcont = fcont.split()

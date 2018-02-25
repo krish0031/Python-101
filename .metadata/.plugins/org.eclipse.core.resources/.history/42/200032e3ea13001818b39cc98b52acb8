@@ -1,8 +1,0 @@
-import urllib.request,urllib.parse,urllib.error
-import html
-
-data = urllib.request.urlopen('http://www.py4e.com/book.html').read()
-
-links = re.findall(b'href="(https://.*?)"',html)
-for link in links:
-    print(link.decode())

@@ -1,9 +1,0 @@
-import urllib.request,urllib.parse,urllib.error
-import os
-
-img = urllib.request.urlopen('http://data.pr4e.org/cover.jpg').read()
-fhand = open('cover.jpg','wb')
-fhand.write(img)
-fhand.close()
-
-print(os.getcwd())

@@ -1,6 +1,0 @@
-import urllib.request,urllib.parse,urllib.error
-host = 'http://data.pr4e.org/romeo-full.txt'
-
-fhand = urllib.request.urlopen(host)
-for line in fhand:
-    print(line.decode().strip())

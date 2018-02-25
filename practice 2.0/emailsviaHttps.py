@@ -13,11 +13,11 @@ while True:
         decinfo = info.decode()
         fhand.write(info)
 print(size)
-print(fhand)
+    
 fhand.close()
 mbox = open('mboxweb.txt')
-cont = mbox.read()
-for line in cont:
+content = mbox.read()
+for line in content:
     line = line.rstrip()
     line.split()
     print(line)
